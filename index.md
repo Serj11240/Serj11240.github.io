@@ -4,8 +4,13 @@
 
 ### Autoencoder with Tensorflow 
 
-In this project I tried to create my own artificially generated images using Keras and Autoencoder technique.  
-[View project on GitHub](/sample_page/autoencoder)
+In this project I tried to create my own artificially generated images using Keras and Autoencoder technique.
+Playing aroung with hyperparameters and architecture. Struggling a lot with computational possibilities of my machine and Colab.
+Initial idea was to create watercolour "filter" for images. Model was trained on dataset of images took from Flickr using their API. 
+Below there is some outputs for given image:
+![Input Image](/images/input.jpgg "Input")
+<img src="images/input.jpg?raw=true"/>
+[View project on GitHub](https://github.com/Serj11240/autoencoder) - current version is with cats images.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
