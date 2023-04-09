@@ -7,9 +7,15 @@
 In this project I tried to create my own artificially generated images using Keras and Autoencoder technique.
 Playing aroung with hyperparameters and architecture. Struggling a lot with computational possibilities of my machine and Colab.
 Initial idea was to create watercolour "filter" for images. Model was trained on dataset of images took from Flickr using their API.  
-Below there is some outputs for given image:  
-[![](/images/input.jpg "Input")(#) [![](/images/Model1_output.png "Output - 1")
-<img src="images/input.jpg?raw=true"/>  
+Below there is some outputs for given image:
+*Input Image*  
+![](/images/input.jpg "Input")   
+
+*Output Image - 1*  
+![](/images/Model1_output.png "Output - 1")  
+
+*Output Image - 2*  
+![](/images/Model2_output.png "Output - 2")   
 
 [View project on GitHub](https://github.com/Serj11240/autoencoder) - current version is with cats images.  
 
