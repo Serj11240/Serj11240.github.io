@@ -1,10 +1,12 @@
-## Portfolio
+## Portfolio of Selected Data Science projects, ML, Computer Vision and NLP
 
 ---
 
-### Category Name 1 
+### Autoencoder with Tensorflow 
 
 [Project 1 Title](/sample_page)
+In this project I tried to create my own artificially generated images using Keras and Autoencoder technique. 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
