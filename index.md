@@ -36,11 +36,5 @@ Based on articles of selected authors scrapped from *money.pl* webpage, I checke
 - Classification of Shoes type - Computer Vision project
 - Classification Film/Music related article based on language analysis
 
-
-
-
-
-
-
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
