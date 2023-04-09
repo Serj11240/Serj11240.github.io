@@ -4,34 +4,31 @@
 
 ### Autoencoder with Tensorflow 
 
-[Project 1 Title](/sample_page)
-In this project I tried to create my own artificially generated images using Keras and Autoencoder technique. 
+In this project I tried to create my own artificially generated images using Keras and Autoencoder technique.  
+[View project on GitHub](/sample_page/autoencoder)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Author detection with Scrapping
+
+Based on articles of selected authors scrapped from *money.pl* webpage, I checked few approaches on author detecting. Strating from basic logic and custom built function to classify author based on language similarity, logistic regression and Multinomial Naive-Bayes. Data preprocessing and language analysis done with Spacy library for Python.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Skills developing projects
 
-### Category Name 2
+- Flat prices prediction in Wrocław, Poland
+- Glasses detection with celeba dataset
+- Classification of Shoes type - Computer Vision project
+- Classification Film/Music related article based on language analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
+
 
 
 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
