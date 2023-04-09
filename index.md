@@ -8,9 +8,11 @@ In this project I tried to create my own artificially generated images using Ker
 Playing aroung with hyperparameters and architecture. Struggling a lot with computational possibilities of my machine and Colab.
 Initial idea was to create watercolour "filter" for images. Model was trained on dataset of images took from Flickr using their API.  
 Below there is some outputs for given image:  
-![Input Image](/images/input.jpgg "Input")  
+[![](/images/input.jpg "Input")(#) [![](/images/Model1_output.png "Output - 1")
 <img src="images/input.jpg?raw=true"/>  
+
 [View project on GitHub](https://github.com/Serj11240/autoencoder) - current version is with cats images.  
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 ---
