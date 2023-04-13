@@ -8,6 +8,7 @@ In this project I tried to create my own artificially generated images using Ker
 Playing aroung with hyperparameters and architecture. Struggling a lot with computational possibilities of my machine and Colab.
 Initial idea was to create watercolour "filter" for images. Model was trained on dataset of images took from Flickr using their API.  
 Below there is some outputs for given image:  
+
 *Input Image*  
 ![](/images/input.jpg "Input")   
 
